@@ -1,5 +1,6 @@
 # Cosmetics Brand Sales Data Cleaning & Analysis
-![Dashboard Preview](dashboard_overview.png)
+![Dashboard Preview](./screenshots/dashboard_overview.png)
+
 ## Project Overview 
 This project focuses on cleaning, validating, and analyzing raw cosmetics sales data using Microsoft Excel. The objective was to transform inconsistent and incomplete business data into a clean, structured dataset suitable for reporting and decision-making.
 
